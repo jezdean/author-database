@@ -1,0 +1,28 @@
+# microbit playground author data file
+
+# name: name as it wil appear on the site
+# attribution: job / role / anything
+# description: A description of who you are
+# twitter: twitter handle (if any)
+# github: github handle (if any)
+# facebook-id: your facebook id for author attribution on cards. 
+
+
+jez:
+  name: Jez Dean
+  attribution: Teacher
+  description: "I'm a teacher from the UK keen on using technology in my lessons."
+  twitter: jezmr
+  github: jezdean
+  facebook-id:
+  website: "https://microbit-playground.co.uk/"
+
+john:
+  name: John Doe
+  attribution: My Job
+  description: "I'm a job title and I..."
+  image: author-john-doe.png
+  twitter: REALjohndoe
+  github: johndoe
+  facebook-id: 10152486833734023
+  website: "https://microbit-playground.co.uk/"

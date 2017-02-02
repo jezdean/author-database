@@ -17,12 +17,12 @@ jez:
   facebook-id:
   website: "https://microbit-playground.co.uk/"
 
-john:
-  name: John Doe
+romilly:
+  name: Romilly
   attribution: My Job
-  description: "I'm a job title and I..."
-  image: author-john-doe.png
-  twitter: REALjohndoe
-  github: johndoe
-  facebook-id: 10152486833734023
-  website: "https://microbit-playground.co.uk/"
+  description: "I'm a..."
+  image: romilly.png
+  twitter: 
+  github: romilly
+  facebook-id: 
+  website: "http://blog.rareschool.com/"
